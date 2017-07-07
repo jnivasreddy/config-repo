@@ -1,0 +1,7 @@
+db:
+  server:
+    hostname: localhost
+    port: 9042
+  database:
+    keyspace: products
+    table: products
